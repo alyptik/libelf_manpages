@@ -12,6 +12,6 @@ Manpages for the **libelf** ELF access library. (from [Illum-OS](http://www.illu
 * Run `make install` to uninstall the manpages from `$PREFIX/share/man`.
 * Run `make all` or `make dist` to make a distribution tarball.
 
-## Community version of the OS/Net consolidation (Illum-OS)
+## OS/Net Consolidation Community Version Github
 
-* [Illum-OS](http://www.illumos.org/projects/illumos-gate) ([illumos/illumos-gate](https://github.com/illumos/illumos-gate))
+* Illum-OS ([illumos/illumos-gate](https://github.com/illumos/illumos-gate))
