@@ -1,26 +1,17 @@
-# <template> - <template>
+# libelf_man - libelf manpages
 
-<template>
+Documentation for **libelf** (manpages from the OS/Net consolidation [Illum-OS](http://www.illumos.org/projects/illumos-gate))
 
 ## Dependencies
 
-* <template>
-> **Optional:**
-> * <template>
+* GNU make
 
-## Usage
-```bash
-./<template> [-hv] [-o<output.c>]
-```
+## Installation
 
-Run `make` then `./<template>`.
+* Run `make install` to install the manpages to `$PREFIX/share/man`.
+* Run `make install` to uninstall the manpages from `$PREFIX/share/man`.
+* Run `make` or `make dist` to make a distribution tarball.
 
-#### <template> options
+## Community version of the OS/Net consolidation
 
-	-h,--help:		Show help/usage information.
-	-v,--version:		Show version information.
-	-o:			Name of the file to output source to.
-
-## Libraries used:
-
-* libtap ([zorgnax/libtap](https://github.com/zorgnax/libtap))
+* [Illum-OS](http://www.illumos.org/projects/illumos-gate) ([illumos/illumos-gate](https://github.com/illumos/illumos-gate))
