@@ -1,0 +1,7 @@
+tags
+TAGS
+*.swp
+*.swo
+*.swn
+*\~
+*.tar.gz
